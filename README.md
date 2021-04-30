@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekumarreddy
+- 👋 Hi, I’m @Pradeep Reddy 
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...Angualr / React
 - 💞️ I’m looking to collaborate on ... FrontEnd Support
